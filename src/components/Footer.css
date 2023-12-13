@@ -1,0 +1,52 @@
+/* Add this CSS to your stylesheets or in your React component */
+
+.footer-part {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+  }
+  
+  .free-star,
+  .enterprise {
+    width: 400px;
+    height: 200px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .below {
+    margin-top: 15px;
+  }
+  
+  span {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
+  /* Add any additional styling based on your design requirements */
+  
